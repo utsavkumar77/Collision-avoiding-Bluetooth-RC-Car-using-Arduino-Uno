@@ -44,19 +44,6 @@ The Arduino sketch for this project is in the `motor_control.ino` file. It handl
 
 ---
 
-## Demonstration Videos
-
-- **Back and Front Movement (Part 1)**
-  ![Back and Front Movement](back%20and%20front%20movement%282%29.mp4)
-
-- **Back and Front Movement (Part 2)**
-  ![Back and Front Movement](back%20and%20front%20movement.mp4)
-
-- **Dark Light Test**
-  ![Dark Light Test](dark%20light.mp4)
-
----
-
 ## Images
 
 ### Top View
